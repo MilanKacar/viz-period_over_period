@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="#F7FAFC" stroke="#363A3C" stroke-width="8"/>
+  <!-- Previous period bar (shorter, left) -->
+  <rect x="32" y="70" width="28" height="28" rx="6" fill="#A0AEC0"/>
+  <!-- Current period bar (taller, right) -->
+  <rect x="68" y="46" width="28" height="52" rx="6" fill="#3182CE"/>
+  <!-- Previous period DOWNWARD arrow (8px tall, from y=71 to y=79, fully inside the gray bar) -->
+  <path d="M46 71 L46 79 L42 75 M46 79 L50 75" stroke="#363A3C" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Current period UPWARD arrow (tip touches top of blue bar) -->
+  <path d="M82 55 L82 47 L78 52 M82 47 L86 52" stroke="#363A3C" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- PoP label dots (optional, for visual balance) -->
+  <circle cx="46" cy="108" r="3" fill="#A0AEC0"/>
+  <circle cx="82" cy="108" r="3" fill="#3182CE"/>
+</svg>
