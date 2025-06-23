@@ -72,4 +72,4 @@ With our **Period-over-Period Visualization**, you get:
   By using and sharing open-source visualizations, you support a broader culture of collaboration and innovation in the data and analytics ecosystem.
 
 * **Grow with Confidence:**
-  Make smarter decisions by consistently comparing your KPIs over time. Quickly spot trends, flag issues, and share reliable results with your team or clients.
+  Make smarter decisions by consistently comparing your KPIs over time. Quickly spot trends, flag issues, and share reliable results with your team or clients!
