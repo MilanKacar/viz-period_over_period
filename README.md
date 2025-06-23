@@ -1,12 +1,11 @@
 
 # Period-over-Period KPI Visualization
 
+Tracking and comparing key metrics across different time periods is critical for making informed business decisions. However, traditional visualization options often fall short when it comes to clarity, flexibility, and actionable insight. The **niceshops team** encountered these challenges firsthand—so we created a **Period-over-Period Visualization** that directly addresses the limitations of default solutions. Today, we’re sharing it with the community at no cost, making it easier for any team to unlock meaningful insights and drive business growth.
+
 ## Demo
 ![Alt Text](https://github.com/MilanKacar/viz-period_over_period/blob/main/doc/viz-pop.gif?raw=true)
 
-
-
-Tracking and comparing key metrics across different time periods is critical for making informed business decisions. However, traditional visualization options often fall short when it comes to clarity, flexibility, and actionable insight. The **niceshops team** encountered these challenges firsthand—so we created a **Period-over-Period Visualization** that directly addresses the limitations of default solutions. Today, we’re sharing it with the community at no cost, making it easier for any team to unlock meaningful insights and drive business growth.
 
 ## Why use this Period-over-Period visualization?
 
