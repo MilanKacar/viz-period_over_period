@@ -32,4 +32,5 @@ As alrady mentioned sometimes the positiv values are bad for the buissness e.g. 
 Other options are standard where we want to apply the changes to the specific columns like labels, colors or orientation of the visualization.
 
 ![mult-value-v](https://github.com/MilanKacar/viz-period_over_period/blob/main/doc/options.png?raw=true)
+
 ![mult-value-v](https://github.com/MilanKacar/viz-period_over_period/blob/main/doc/colors.png?raw=true)
