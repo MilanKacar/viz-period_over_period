@@ -1,0 +1,20 @@
+{
+  "label": "Period over Period Visualization",
+  "category_label": "Plug-ins",
+  "branding": {
+    "image_uri": "https://raw.githubusercontent.com/MilanKacar/viz-period_over_period/refs/heads/main/src/logo.svg",
+    "tagline": "Use the Period over Period visualization to display and compare multiple measures across current and previous period. This visualization can be arranged horizontally or vertically."
+  },
+
+  "constants": {
+    "VIS_LABEL": {
+      "label": "Visualization Label",
+      "description": "This label will appear in the visualization selector in the Looker Explore UI."
+    },
+    "VIS_ID": {
+      "label": "Visualization ID",
+      "description": "This ID must be unique across all custom visualizations on your instance.",
+      "value_constraint": "visualization"
+    }
+  }
+}
