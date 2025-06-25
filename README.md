@@ -47,8 +47,9 @@ With our **Period-over-Period Visualization**, you get:
 
 * **KPI Overview in Both Horizontal and Vertical Layouts:**
   Choose the display that works best for your dashboard and reporting needs.
-
+  - Horizontal
   ![Horizontal](https://github.com/MilanKacar/viz-period_over_period/blob/main/doc/viz-1.png?raw=true)
+  - Vertical
   ![Vertical](https://github.com/MilanKacar/viz-period_over_period/blob/main/doc/viz-2.png?raw=true)
 
 * **Smart Highlighting and Conditional Formatting:**
