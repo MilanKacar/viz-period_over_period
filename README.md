@@ -1,5 +1,6 @@
 
 # Period-over-Period KPI Visualization
+**DISCLAIMER:** The data presented are entirely random and do not reflect any actual data from niceshops.
 
 Tracking and comparing key metrics across different time periods is critical for making informed business decisions. However, traditional visualization options often fall short when it comes to clarity, flexibility, and actionable insight. The **niceshops team** encountered these challenges firsthand—so we created a **Period-over-Period Visualization** that directly addresses the limitations of default solutions. Today, we’re sharing it with the community at no cost, making it easier for any team to unlock meaningful insights and drive business growth.
 
